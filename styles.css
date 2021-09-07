@@ -15,5 +15,29 @@
     color: #ff6f00;
     }
     .dark-teal-text {
-    color: #004d40;
+    color: #29554e;
     }
+
+
+    .box {
+        height: 150px;
+        padding: 20px;
+        color: #06edf5;
+      }
+
+
+      hr {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        border: 0;
+        border-top: 1px solid rgba(0, 0, 0, 0.1);
+     }
+
+     h1.color {
+        color: #06edf5;
+     }
+     
+     h2.headertekst {
+        text-align: center;
+        color: #06edf5;
+      }
