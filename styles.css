@@ -1,43 +1,58 @@
 /* Add your styles here */
-.fa-1x {
-    font-size: 1.5rem;
-    }
-    .navbar-toggler.toggler-example {
-    cursor: pointer;
-    }
-    .dark-blue-text {
-    color: #0A38F5;
-    }
-    .dark-pink-text {
-    color: #AC003A;
-    }
-    .dark-amber-text {
-    color: #ff6f00;
-    }
-    .dark-teal-text {
-    color: #29554e;
-    }
-
-
     .box {
-        height: 150px;
+        height: 100px;
         padding: 20px;
-        color: #06edf5;
+        color: #48a39f;
+        background-color: white;
+        margin-bottom: 0px;
       }
 
-
-      hr {
-        margin-top: 1rem;
-        margin-bottom: 1rem;
+      hr{
+        margin-top: 0px;
+        margin-bottom: 0px;
         border: 0;
-        border-top: 1px solid rgba(0, 0, 0, 0.1);
-     }
+        border-top: 1px solid #061306;
+      }
 
      h1.color {
-        color: #06edf5;
+        color: #48a39f;
      }
      
      h2.headertekst {
         text-align: center;
-        color: #06edf5;
+        color: #48a39f;
       }
+
+      body { background: #f7efef !important;}
+
+      .col-md-5 {
+        background-color: white;
+      }
+
+
+      .col-md-2  {
+        background-color: white;
+      }
+
+      .col-md-8 {
+        background-color: white;
+      }
+
+
+      .col-sm-6 {
+          background-color: white;
+        }
+      
+      
+      .col-md-6{
+        background-color: white;
+      }
+
+      p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        border: 0;
+        background-color: white;
+      }
+
+  
